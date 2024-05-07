@@ -1,0 +1,55 @@
+.red{
+    background-color: red;
+    padding: 0px;
+}
+.Detail1{
+    margin-left: 1380px;
+    color: white;
+    background-color: transparent;
+    border:2px solid white;
+}
+.Detali2{
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+}   
+.logo{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    border: 1px solid white;
+    background-color: white;
+    color: red;
+    text-align: center;
+    margin: left;
+}
+.location{
+    padding: 5px;
+    width: 200px;
+}
+.box{
+    display: inline-block;
+    width: 80%;
+    box-shadow: 2px 0px 5px 5px black;
+    margin-right: 90px;
+    margin-bottom: 90px;
+}
+.heading1, .par{
+    margin-left: 110px;
+    
+}
+.heading1{
+    margin-top: -100px;
+}
+.image{
+    height: 100px;
+    width: 100px;
+}
+.parent{
+    margin-left: 300px;
+    margin-top: -600px;
+}
+hr{
+    border: 1px solid black;
+    width: 90%;
+}
